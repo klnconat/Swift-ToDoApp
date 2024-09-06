@@ -1,19 +1,9 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+Swift ToDo App
+This is a simple to-do list application built with Swift to demonstrate key iOS development concepts, including:
 
-
-# Todoey ✓
-
-## Our Goal
-
-The objective of this tutorial is to understand how to save data in iOS. We'll look at various choices and learn to use UserDefaults, Core Data and Realm.
-
-
-## What you will create
-
-A todolist app to keep track of all your tasks.
-
-
->This is a companion project to The App Brewery's Complete iOS Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
-
+Features
+User Interface: Designed with UIKit and Auto Layout for a responsive and user-friendly experience.
+Persistent Data: Uses Core Data for saving tasks, allowing users to store tasks even after closing the app.
+Search Functionality: Implements search functionality to filter tasks.
+Data Management: Categorized tasks for better organization.
+Light/Dark Mode Support: Automatically adapts to system theme settings.
